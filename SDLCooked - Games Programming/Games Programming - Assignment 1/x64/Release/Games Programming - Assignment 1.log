@@ -1,0 +1,98 @@
+﻿  AnimatedTexture.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  AssetManager.cpp
+  AudioManager.cpp
+  BoxCollider.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bun.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Buttons.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Cheese.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Chopping.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CircleCollider.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Collider.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ContainerMeat.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Cooker.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Food.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  FoodContainerBuns.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\FoodContainerBuns.cpp(17,12): warning C4553: '==': result of expression not used; did you intend '='?
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\FoodContainerBuns.cpp(80,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  FoodContainerCheese.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  FoodContainerLettuce.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  FryingPan.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  GameEntity.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  GameManager.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\GameManager.cpp(18,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Goal.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Compiling...
+  Graphics.cpp
+  InputManager.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lettuce.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Level.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Level.cpp(99,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Level.cpp(99,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Level.cpp(220,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Level.cpp(221,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Level.cpp(226,19): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Level.cpp(227,19): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Meat.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PhysicsEntity.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PhysicsManager.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Plate.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PlateContainer.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\PlateContainer.cpp(17,12): warning C4553: '==': result of expression not used; did you intend '='?
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\PlateContainer.cpp(81,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Recipe.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Recipe.cpp(135,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  RecipeDecider.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\RecipeDecider.cpp(91,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Scoreboard.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\Scoreboard.cpp(33,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ScreenManager.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  StartScreen.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\StartScreen.cpp(75,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\StartScreen.cpp(76,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\StartScreen.cpp(81,18): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\StartScreen.cpp(82,18): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  Texture.cpp
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Timer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+W:\Repositories\SDLCooked - Games Programming\Games Programming - Assignment 1\PhysicsHelper.h(17): warning C4715: 'ColliderColliderCheck': not all control paths return a value
+  All 1284 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Games Programming - Assignment 1.vcxproj -> W:\Repositories\SDLCooked - Games Programming\x64\Release\SDLCooked.exe

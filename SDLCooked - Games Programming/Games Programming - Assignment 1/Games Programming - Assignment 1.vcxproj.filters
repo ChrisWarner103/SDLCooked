@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Entities">
+      <UniqueIdentifier>{6d056ca8-d90f-4cef-beb9-688cfad275c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities">
+      <UniqueIdentifier>{a1cd7b61-a218-4ef6-acac-12e02f31faa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers">
+      <UniqueIdentifier>{81a9a108-1b83-4e57-9b18-a1c0b2a1400c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{5b1b2c4a-dbbf-4ec6-b821-c0d8e0e53be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics">
+      <UniqueIdentifier>{bf7c68fb-2a2c-4280-9dae-11b1e25efd2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics">
+      <UniqueIdentifier>{9ac434a7-dbbe-40fd-b949-b29e9df185e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interactables">
+      <UniqueIdentifier>{e15f0cea-0839-4b69-a227-b07e98816555}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interactables\Containers">
+      <UniqueIdentifier>{8ac035b8-a2fc-4880-b620-a9f31e78e8d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interactables\Worktops">
+      <UniqueIdentifier>{501e1f02-8325-49b1-ab11-5c29b549e673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities\Food">
+      <UniqueIdentifier>{893d129e-0e22-426d-be70-6c6f48eaf7f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Interactables">
+      <UniqueIdentifier>{2eaf3a59-f18a-48cd-a19a-ba2cee37d0bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Interactables\Worktops">
+      <UniqueIdentifier>{dc2c7281-3b89-4b93-a824-32b964e0f4be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Interactables\Containers">
+      <UniqueIdentifier>{1ab8ca17-79c3-44fa-b1c3-da6c1a9f0380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Misc">
+      <UniqueIdentifier>{0a8d9c67-2673-4764-85b0-d3261d0c2ad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils">
+      <UniqueIdentifier>{15cf2ee9-ee94-4d7b-b64e-c527b93e1b61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Misc">
+      <UniqueIdentifier>{77bf9859-3322-49cd-877f-e114d3244569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utils">
+      <UniqueIdentifier>{a6b98b38-6c72-44a8-a416-148f7cce8b9c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsEntity.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxCollider.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleCollider.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsManager.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Buttons.cpp">
+      <Filter>Source Files\Interactables</Filter>
+    </ClCompile>
+    <ClCompile Include="Bun.cpp">
+      <Filter>Source Files\Entities\Food</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheese.cpp">
+      <Filter>Source Files\Entities\Food</Filter>
+    </ClCompile>
+    <ClCompile Include="Lettuce.cpp">
+      <Filter>Source Files\Entities\Food</Filter>
+    </ClCompile>
+    <ClCompile Include="Meat.cpp">
+      <Filter>Source Files\Entities\Food</Filter>
+    </ClCompile>
+    <ClCompile Include="PlateContainer.cpp">
+      <Filter>Source Files\Interactables\Containers</Filter>
+    </ClCompile>
+    <ClCompile Include="Chopping.cpp">
+      <Filter>Source Files\Interactables\Worktops</Filter>
+    </ClCompile>
+    <ClCompile Include="Cooker.cpp">
+      <Filter>Source Files\Interactables\Worktops</Filter>
+    </ClCompile>
+    <ClCompile Include="ContainerMeat.cpp">
+      <Filter>Source Files\Interactables\Containers</Filter>
+    </ClCompile>
+    <ClCompile Include="FoodContainerBuns.cpp">
+      <Filter>Source Files\Interactables\Containers</Filter>
+    </ClCompile>
+    <ClCompile Include="FoodContainerCheese.cpp">
+      <Filter>Source Files\Interactables\Containers</Filter>
+    </ClCompile>
+    <ClCompile Include="FoodContainerLettuce.cpp">
+      <Filter>Source Files\Interactables\Containers</Filter>
+    </ClCompile>
+    <ClCompile Include="Food.cpp">
+      <Filter>Source Files\Entities\Food</Filter>
+    </ClCompile>
+    <ClCompile Include="RecipeDecider.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEntity.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedTexture.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Plate.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Recipe.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="FryingPan.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Goal.cpp">
+      <Filter>Source Files\Interactables</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Scoreboard.cpp">
+      <Filter>Source Files\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScreen.cpp">
+      <Filter>Source Files\Misc</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AssetManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsEntity.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxCollider.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleCollider.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsManager.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsHelper.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Buttons.h">
+      <Filter>Header Files\Interactables</Filter>
+    </ClInclude>
+    <ClInclude Include="Cooker.h">
+      <Filter>Header Files\Interactables\Worktops</Filter>
+    </ClInclude>
+    <ClInclude Include="Chopping.h">
+      <Filter>Header Files\Interactables\Worktops</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodContainerBuns.h">
+      <Filter>Header Files\Interactables\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodContainerCheese.h">
+      <Filter>Header Files\Interactables\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodContainerLettuce.h">
+      <Filter>Header Files\Interactables\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerMeat.h">
+      <Filter>Header Files\Interactables\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="PlateContainer.h">
+      <Filter>Header Files\Interactables\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="Goal.h">
+      <Filter>Header Files\Interactables</Filter>
+    </ClInclude>
+    <ClInclude Include="RecipeDecider.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEntity.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedTexture.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="MathHelper.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Scoreboard.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScreen.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="FryingPan.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodPlate.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Plate.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Food.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Bun.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Recipe.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,64 @@
+﻿  Bun.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Cheese.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Chopping.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ContainerMeat.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\ContainerMeat.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\ContainerMeat.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+  Cooker.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  FoodContainerBuns.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerBuns.cpp(17,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerBuns.cpp(78,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerBuns.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerBuns.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+  FoodContainerCheese.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerCheese.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerCheese.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+  FoodContainerLettuce.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerLettuce.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\FoodContainerLettuce.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+  GameManager.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\GameManager.cpp(18,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Goal.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lettuce.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Level.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtgmath.h(24,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\Level.cpp(99,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\Level.cpp(99,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\Level.cpp(220,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\Level.cpp(221,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\Level.cpp(226,19): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\Level.cpp(227,19): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  Meat.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Plate.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PlateContainer.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\PlateContainer.cpp(17,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\PlateContainer.cpp(79,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\PlateContainer.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\PlateContainer.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+  ScreenManager.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  StartScreen.cpp
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\MathHelper.h(103,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\StartScreen.cpp(75,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\StartScreen.cpp(76,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\StartScreen.cpp(81,18): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\StartScreen.cpp(82,18): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtgmath.h(24,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Games Programming - Assignment 1\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Games Programming - Assignment 1.vcxproj -> C:\Users\ChrisWarner\source\repos\Games Programming - Assignment 1\Debug\Games Programming - Assignment 1.exe
